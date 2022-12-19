@@ -80,8 +80,11 @@ This is a web based application developed for health related telugu based websit
 
 
 
+
+
+
 ## error 404 -
-![pic8](https://user-images.githubusercontent.com/116336340/208363349-c0d26d79-f918-44e7-8c5e-86f4667b9f73.png
+![pic8](https://user-images.githubusercontent.com/116336340/208365041-5a2f9669-1ed3-45a9-81aa-8b23a27a0ddb.png)
 
 
 
@@ -107,9 +110,7 @@ This is a web based application developed for health related telugu based websit
 
 
 ## Static web apps -
-![pic10](https://user-images.githubusercontent.com/116336340/208363618-97b6bf96-d4ff-4863-9cb8-746f371fb101.png)
-
-
+![image](https://user-images.githubusercontent.com/116336340/208365181-8895796b-1096-45c2-8fb2-aa491f22517a.png)
 
 
 
