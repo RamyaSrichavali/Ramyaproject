@@ -76,10 +76,7 @@ This is a web based application developed for health related telugu based websit
 
 
 ## typography -
-![pic7](https://user-images.githubusercontent.com/116336340/208363295-ceb238c8-3a43-4fb8-b4e9-750c8d0331f4.png
-
-
-
+![pic7](https://user-images.githubusercontent.com/116336340/208364915-c5685dc7-a8ac-4341-a1b2-66bcc307c4cc.png)
 
 
 
