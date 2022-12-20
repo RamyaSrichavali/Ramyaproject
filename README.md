@@ -8,7 +8,7 @@ This is a web based application developed for health related health based websit
 
 *Project Link* - https://red-bush-0526a7c00.2.azurestaticapps.net
 
-*project demo video link* -
+*project demo video link* -https://youtu.be/C8ElpyCML3M
 
 ## Features and Functionalities 😃
 
